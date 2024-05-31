@@ -1,7 +1,7 @@
 
 ## Bienvenido a mi repositorio
 
-![Header](https://github.com/Natcol05/Natcol05/edit/main/Welcome.gif)
+![Header]([https://github.com/Natcol05/Natcol05/edit/main/Welcome.gif](https://github.com/Natcol05/Natcol05/blob/9d5ebb4c43111feee3b0ef144903243999cfe63e/Welcome.gif))
 
 <!--
 **Natcol05/Natcol05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

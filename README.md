@@ -3,10 +3,6 @@
 
 <img src="https://github.com/Natcol05/Natcol05/blob/9d5ebb4c43111feee3b0ef144903243999cfe63e/Welcome.gif" alt="Encabezado" width="600" height="300">
 
-
-
-**Natcol05/Natcol05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on multiple projects

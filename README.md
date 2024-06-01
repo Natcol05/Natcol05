@@ -3,7 +3,7 @@
   
 ## Hey Guys
 
-![Header](Welcome.gif)
+![Header](Welcome_size_1.gif)
 
 </div>
 

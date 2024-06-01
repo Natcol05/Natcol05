@@ -3,7 +3,7 @@
   
 ## Hey Guys
 
-![Header](https://github.com/Natcol05/Natcol05/blob/9d5ebb4c43111feee3b0ef144903243999cfe63e/Welcome_size_1.gif)
+![Header](https://github.com/Natcol05/Natcol05/blob/fe28498fe72b93982358c1167838a64cafab28d4/Welcome_size_1.gif)
 
 </div>
 

@@ -3,7 +3,7 @@
   
 ## Hey Guys
 
-<img src="https://github.com/Natcol05/Natcol05/blob/9d5ebb4c43111feee3b0ef144903243999cfe63e/Welcome.gif" alt="Encabezado" width="600" height="300">
+![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)
 
 </div>
 

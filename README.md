@@ -11,9 +11,7 @@
 🌱 Learning and mastering new techniques in Python and SQL to stay ahead in the data game.                                                                                     
 👯 Looking to collaborate on innovative projects that include a lot of stadistic analysis and maybe some of web scrapping 😉.                                                  
 💬 Ask me about quantitative and qualitative analysis.                                                                                                                                                                          
-📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/natalia-lopera) | [![Email](https://img.shields.io/badge/-Email-white?style=flat&logo=gmail)](mailto:loperanataliaal@gmail.com)
-
-.  
+📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/natalia-lopera) | [![Email](https://img.shields.io/badge/-Email-white?style=flat&logo=gmail)](mailto:loperanataliaal@gmail.com) 
 ⚡ Fun fact: One day I'd love to travel to Africa and navigate the Congo River!.
 
 **Languages, libraries and softwares I have used**

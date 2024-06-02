@@ -28,3 +28,6 @@
 ![VS Code](https://img.shields.io/badge/-visualstudiocode-000000?style=flat&logo=visual-studio-code)
 ![Scipy](https://img.shields.io/badge/-Scipy-000000?style=flat&logo=Scipy)
 
+**Projects**
+
+

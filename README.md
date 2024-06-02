@@ -3,7 +3,7 @@
   
 ## Hey Guys, Welcome to my profile 
 
-![Header](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)
+![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)
 
 </div>
 

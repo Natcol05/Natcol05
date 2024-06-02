@@ -3,7 +3,7 @@
   
 ## Hey Guys
 
-![Header](Naranja.gif)
+![Header](Naranjado.gif)
 
 </div>
 

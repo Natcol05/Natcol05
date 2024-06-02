@@ -3,7 +3,7 @@
   
 ## Hey Guys, Welcome to my profile 
 
-![Header](Encabezado_ahora_sí.gif)
+![Header](Formal.png)
 
 </div>
 

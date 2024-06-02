@@ -19,4 +19,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
+![Selenium](https://img.shields.io/badge/-Selenium-000000?style=flat&logo=selenium)
+![Numpy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=numpy)
+
 

@@ -30,5 +30,5 @@
 
 **Projects**
 
-![Taxi Travels Chicago](https://img.shields.io/badge/Taxi%20Travels%20in%20Chicago-000000?style=flat&logo=github)
+[![Taxi Travels Chicago](https://img.shields.io/badge/Taxi%20Travels%20in%20Chicago-000000?style=flat&logo=github)](https://github.com/Natcol05/Taxi-Travels-in-Chicago)
 

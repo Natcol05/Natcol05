@@ -14,7 +14,7 @@
 📫 How to reach me: www.linkedin.com/in/natalia-lopera | loperanataliaal@gmail.com.  
 ⚡ Fun fact: One day I'd love to travel to Africa and navigate the Congo River!.
 
-**Languages and libraries I have used**
+**Languages, libraries and softwares I have used**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
@@ -24,4 +24,6 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat&logo=seaborn)
 ![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat&logo=tableau)
+![Anaconda](https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=Anaconda)
+![VSC](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 

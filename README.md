@@ -26,4 +26,5 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat&logo=tableau)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=Anaconda)
 ![VS Code](https://img.shields.io/badge/-visualstudiocode-000000?style=flat&logo=visual-studio-code)
+![Scipy](https://img.shields.io/badge/-Scipy-000000?style=flat&logo=Scipy)
 

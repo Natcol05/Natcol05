@@ -30,5 +30,5 @@
 
 **Projects**
 
-Analysis of Taxi Travel Behavior in Chicago: Popular Destinations, Prominent Companies, and the Impact of Weather Conditions. 
-Find it here
+![Taxi Travels Chicago](https://img.shields.io/badge/Taxi%20Travels%20in%20Chicago-000000?style=flat&logo=github)
+

@@ -3,7 +3,7 @@
   
 ## Hey Guys
 
-![Header](Github_chico.gif)
+![Header](Github_Mediano.gif)
 
 </div>
 

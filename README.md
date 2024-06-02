@@ -14,12 +14,14 @@
 📫 How to reach me: www.linkedin.com/in/natalia-lopera | loperanataliaal@gmail.com.  
 ⚡ Fun fact: One day I'd love to travel to Africa and navigate the Congo River!.
 
-**Languages I have used**
+**Languages and libraries I have used**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
 ![Selenium](https://img.shields.io/badge/-Selenium-000000?style=flat&logo=selenium)
 ![Numpy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=numpy)
-
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat&logo=seaborn)
+![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat&logo=tableau)
 

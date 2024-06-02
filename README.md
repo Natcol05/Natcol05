@@ -3,7 +3,7 @@
   
 ## Hey Guys, Welcome to my profile 
 
-![Header](Formal.png)
+![Header](Plants.png)
 
 </div>
 

@@ -3,7 +3,7 @@
   
 ## Hey Guys, Welcome to my profile 
 
-![Header](Encabezado_Oceano.gif)
+![Header](Oceano_claro.gif)
 
 </div>
 

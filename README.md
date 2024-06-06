@@ -7,12 +7,20 @@
 
 </div>
 
+**Skills and Interests:**
    
-🌱 Learning and mastering new techniques in Python and SQL to stay ahead in the data game.                                                                                     
-👯 Looking to collaborate on innovative projects that include a lot of statistic analysis and maybe some of web scrapping 😉.                                                  
-💬 Ask me about quantitative and qualitative analysis.                                                                                                                                                                          
-📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/natalia-lopera) | [![Email](https://img.shields.io/badge/-Email-white?style=flat&logo=gmail)](mailto:loperanataliaal@gmail.com)                                                                         
+🌱 Passionate about statistics and probability, I thrive on utilizing programming tools such as Python and SQL to deepen my expertise in these domains.                                                                            
+👯 Eager to collaborate on innovative projects encompassing statistical analysis, modeling, machine learning, and web scraping 😉. 
+
+🔭 I'd love to continue honing my English communication skills to better engage with global communities and broaden my professional horizons 🇺🇸
+
 ⚡ Fun fact: One day I'd love to travel to Africa and navigate the Congo River!.
+                                                                                                                                                                         
+📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/natalia-lopera) | [![Email](https://img.shields.io/badge/-Email-white?style=flat&logo=gmail)](mailto:loperanataliaal@gmail.com)
+
+**More About Me:**
+
+
 
 **Languages, libraries and softwares I have used**
 

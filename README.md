@@ -47,3 +47,4 @@ Feel free to reach out to me on my social media channels:
 [![Video Games](https://img.shields.io/badge/Video%20Games%20-000000?style=flat&logo=github)](https://github.com/Natcol05/Video-Games-.git)
 [![User Interaction and Conversion in A/A/B Test](https://img.shields.io/badge/Interaction%20and%20Conversion%20Test%20A/A/B-000000?style=flat&logo=github)](https://github.com/Natcol05/User-Interaction-and-Conversion-in-A-A-B-Test.git)
 [![Prueba A/B para incremento de ingresos](https://img.shields.io/badge/Incremento%20de%20Ingresos%20Test%20A/B-000000?style=flat&logo=github)](https://github.com/Natcol05/Pruebas-A-B-para-Estrategias-de-Incremento-de-Ingresos.git)
+[![Predicting and Addressing Customer Churn](https://img.shields.io/badge/Predicting%20and%20Addressing%20Customer%20churn-000000?style=flat&logo=github)](https://github.com/Natcol05/Machine-Learning-Model.git)

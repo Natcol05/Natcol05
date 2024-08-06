@@ -45,4 +45,4 @@ Feel free to reach out to me on my social media channels:
 
 [![Taxi Travels Chicago](https://img.shields.io/badge/Taxi%20Travels%20in%20Chicago-000000?style=flat&logo=github)](https://github.com/Natcol05/Taxi-Travels-in-Chicago)
 [![Video Games](https://img.shields.io/badge/Video%20Games%20-000000?style=flat&logo=github)](https://github.com/Natcol05/Video-Games-.git)
-
+[![Analyzing User Interaction and Conversion in A/A/B Test](https://img.shields.io/badge/Video%20Games%20-000000?style=flat&logo=github)]([https://github.com/Natcol05/User-Interaction-and-Conversion-in-A-A-B-Test.git])

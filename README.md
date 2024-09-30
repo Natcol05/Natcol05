@@ -3,7 +3,7 @@
   
 ## Hey Guys, Welcome to my profile 
 
-![Header](Natalia Lopera Banner.png)
+![Header]([Natalia Lopera Banner.png](https://github.com/Natcol05/Natcol05/blob/5c96bfc46c14fac10e9c49351e6d8c54c3af4626/Natalia%20Lopera%20Banner.png))
 
 </div>
 

@@ -35,7 +35,7 @@ Feel free to reach out to me on my social media channels:
         <tr>
             <td>
                 <a href="https://github.com/Natcol05/Machine-Learning-Model.git" target="_blank">
-                    <img src="https://github.com/Natcol05/Machine-Learning-Model/blob/93da41886e23f109e930422c2e0a179ad2d2f021/Graphics/GYM%20(4).png?raw=true" alt="Gym Image" style="padding-right: 10px;"/>
+                    <img src="https://github.com/Natcol05/Machine-Learning-Model/blob/93da41886e23f109e930422c2e0a179ad2d2f021/Graphics/GYM%20(4).png?raw=true" alt="Gym Image" style="padding-right: 10px; width: 600px; height: 300px;" />
                 </a>
             </td>
             <td style="vertical-align: middle;">
@@ -58,4 +58,34 @@ Feel free to reach out to me on my social media channels:
             </td>
         </tr>
     </table>
+</div>
+
+<div>
+ <table>
+  <tr>
+   <td>
+    <a href="https://github.com/Natcol05/hackathon.git" target="_blank">
+     <img src="https://github.com/Natcol05/hackathon/blob/6f6c91693309eaa4f02430b3672a14787a8dc607/Retail.png?raw=true" alt="Retail Image" style="padding-right: 10px; width: 900px; height: 300px;" />
+    </a>
+   </td>
+   <td style="vertical-align: middle;">
+    <h2 align="center" style="color: black; text-decoration: none;">
+     Growth Strategies Based on Intelligent Segmentation: Driving the Success of a Multinational Retail Store through Customer Behavior Analysis.
+    </h2>
+    <p> 
+     This project focuses on leveraging customer behavior data to implement growth strategies for a multinational retail store. Using RFM analysis (Recency, Frequency, Monetary), customers are segmented into gold, silver, and bronze categories, helping tailor marketing efforts and optimize sales. Data-driven insights aim to improve retention and customer engagement.
+    </p>
+    <div>
+     <img src="https://img.shields.io/badge/-Market%20Segmentation-000000?style=flat&logo=googleanalytics" alt="Market Segmentation" />
+     <img src="https://img.shields.io/badge/-Relationship%20Marketing-000000?style=flat&logo=handshake" alt="Relationship Marketing" />
+     <img src="https://img.shields.io/badge/-Predictive%20Analytics-000000?style=flat&logo=datadog" alt="Predictive Analytics" />
+     <img src="https://img.shields.io/badge/-Machine%20Learning-000000?style=flat&logo=tensorflow" alt="Machine Learning" />
+     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" alt="Python Badge" />
+     <img src="https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas" alt="Pandas Badge" />
+     <img src="https://img.shields.io/badge/-Scikit--learn-000000?style=flat&logo=scikit-learn" alt="Scikit-learn Badge" />
+     <img src="https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy" alt="NumPy Badge" />
+    </div>
+   </td>
+  </tr>
+ </table>
 </div>

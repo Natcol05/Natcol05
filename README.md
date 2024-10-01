@@ -3,10 +3,6 @@
 
 I'm a data analyst and sociologist who loves getting into the details of numbers and diving deep into research.Throughout my academic and professional journey, I have developed skills in research methodology design and data analysis, primarily utilizing Python, SQL and SPSS.
 
-Feel free to reach out to me on my social media channels:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/natalia-lopera) | [![Email](https://img.shields.io/badge/-Email-white?style=flat&logo=gmail)](mailto:loperanataliaal@gmail.com)
-
 **Skills and Interests:**
    
 🌱 Passionate about statistics and probability, I thrive on utilizing programming tools such as Python and SQL to deepen my expertise in these domains.                                                                       
@@ -16,6 +12,10 @@ Feel free to reach out to me on my social media channels:
 🔭 I'd love to continue honing my English communication skills to better engage with global communities and broaden my professional horizons 🌐🌎
 
 ⚡ Fun fact: One day I'd love to travel to Africa and navigate the Congo River! ✈️.
+
+Feel free to reach out to me on my social media channels:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/natalia-lopera) | [![Email](https://img.shields.io/badge/-Email-white?style=flat&logo=gmail)](mailto:loperanataliaal@gmail.com)
 
 **Languages, libraries and softwares I have used**
 
@@ -30,6 +30,7 @@ Feel free to reach out to me on my social media channels:
 ![Anaconda](https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=Anaconda)
 ![VS Code](https://img.shields.io/badge/-visualstudiocode-000000?style=flat&logo=visual-studio-code)
 ![Scipy](https://img.shields.io/badge/-Scipy-000000?style=flat&logo=Scipy)
+<img src="https://img.shields.io/badge/-Scikit--learn-000000?style=flat&logo=scikit-learn" alt="Scikit-learn Badge" />
 
 
 <div align="center">
@@ -42,10 +43,20 @@ Feel free to reach out to me on my social media channels:
       <img src="https://github.com/Natcol05/Machine-Learning-Model/blob/93da41886e23f109e930422c2e0a179ad2d2f021/Graphics/GYM%20(4).png?raw=true" alt="Gym Image" style="padding-right: 10px;" />
     </td>
     <td>
-      <h2>Customer Behavior Analysis</h2>
+      <h2 align="center">Maximizing Customer Loyalty: Predicting & Reducing Churn at Model Fitness</h2>
       <p>
         This project focuses on analyzing customer behaviors at a gym to establish effective retention strategies. By leveraging machine learning algorithms, we aim to gain insights into customer preferences and trends, helping improve services and enhance user experience.
       </p>
+      <div>
+        <img src="https://img.shields.io/badge/-Market%20Segmentation-000000?style=flat&logo=googleanalytics" alt= "Market Segmentation" />
+        <img src="https://img.shields.io/badge/-Relationship%20Marketing-000000?style=flat&logo=handshake" alt= "Relationship Marketing" />
+       <img src="https://img.shields.io/badge/-Predictive%20Analytics-000000?style=flat&logo=datadog" alt="Predictive Analytics" />
+       <img src="https://img.shields.io/badge/-Machine%20Learning-000000?style=flat&logo=tensorflow" alt="Machine Learning" />
+        <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" alt="Python Badge" />
+        <img src="https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas" alt="Pandas Badge" />
+        <img src="https://img.shields.io/badge/-Scikit--learn-000000?style=flat&logo=scikit-learn" alt="Scikit-learn Badge" />
+        <img src="https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy" alt="NumPy Badge" />
+      </div>
     </td>
   </tr>
 </table>

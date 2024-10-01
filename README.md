@@ -35,7 +35,7 @@ Feel free to reach out to me on my social media channels:
         <tr>
             <td>
                 <a href="https://github.com/Natcol05/Machine-Learning-Model.git" target="_blank">
-                    <img src="https://github.com/Natcol05/Machine-Learning-Model/blob/93da41886e23f109e930422c2e0a179ad2d2f021/Graphics/GYM%20(4).png?raw=true" alt="Gym Image" style="padding-right: 10px; width: 600px; height: 300px;" />
+                    <img src="https://github.com/Natcol05/Machine-Learning-Model/blob/93da41886e23f109e930422c2e0a179ad2d2f021/Graphics/GYM%20(4).png?raw=true" alt="Gym Image" style="padding-right: 10px; width: 600px; height: 250px;" />
                 </a>
             </td>
             <td style="vertical-align: middle;">
@@ -65,7 +65,7 @@ Feel free to reach out to me on my social media channels:
   <tr>
    <td>
     <a href="https://github.com/Natcol05/hackathon.git" target="_blank">
-     <img src="https://github.com/Natcol05/hackathon/blob/6f6c91693309eaa4f02430b3672a14787a8dc607/Retail.png?raw=true" alt="Retail Image" style="padding-right: 10px; width: 900px; height: 300px;" />
+     <img src="https://github.com/Natcol05/hackathon/blob/6f6c91693309eaa4f02430b3672a14787a8dc607/Retail.png?raw=true" alt="Retail Image" style="padding-right: 10px; width: 900px; height: 250px;" />
     </a>
    </td>
    <td style="vertical-align: middle;">

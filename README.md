@@ -32,10 +32,14 @@ Feel free to reach out to me on my social media channels:
   <h1>My Projects</h1>
 </div>
 
+
+
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Natcol05/Machine-Learning-Model/blob/93da41886e23f109e930422c2e0a179ad2d2f021/Graphics/GYM%20(4).png?raw=true" alt="Gym Image" style="padding-right: 10px;" />
+     <a href="https://github.com/Natcol05/Machine-Learning-Model.git" target="_blank">
+  <img src="https://github.com/Natcol05/Machine-Learning-Model/blob/93da41886e23f109e930422c2e0a179ad2d2f021/Graphics/GYM%20(4).png?raw=true" alt="Gym Image" style="padding-right: 10px;"/>
+     </a>
     </td>
     <td>
       <h2 align="center">Maximizing Customer Loyalty: Predicting & Reducing Churn at Model Fitness</h2>

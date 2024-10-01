@@ -11,8 +11,6 @@ I'm a data analyst and sociologist who loves getting into the details of numbers
 
 🔭 I'd love to continue honing my English communication skills to better engage with global communities and broaden my professional horizons 🌐🌎
 
-⚡ Fun fact: One day I'd love to travel to Africa and navigate the Congo River! ✈️.
-
 Feel free to reach out to me on my social media channels:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/natalia-lopera) | [![Email](https://img.shields.io/badge/-Email-white?style=flat&logo=gmail)](mailto:loperanataliaal@gmail.com)

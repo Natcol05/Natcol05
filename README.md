@@ -33,20 +33,18 @@ Feel free to reach out to me on my social media channels:
 </div>
 
 
-
 <table>
   <tr>
     <td>
      <a href="https://github.com/Natcol05/Machine-Learning-Model.git" target="_blank">
   <img src="https://github.com/Natcol05/Machine-Learning-Model/blob/93da41886e23f109e930422c2e0a179ad2d2f021/Graphics/GYM%20(4).png?raw=true" alt="Gym Image" style="padding-right: 10px;"/>
      </a>
-    </td>
-    <td>
-     <a href="https://github.com/Natcol05/Machine-Learning-Model.git" target="_blank">
-     <h2 align="center">Maximizing Customer Loyalty: Predicting & Reducing Churn at Model Fitness</h2>
-      </a>
-      <p>
-        This project focuses on analyzing customer behaviors at a gym to establish effective retention strategies. By leveraging machine learning algorithms, we aim to gain insights into customer preferences and trends, helping improve services and enhance user experience.
+   <td style="vertical-align: middle;">
+    <h2 align="center" style="color: black; text-decoration: none;">
+     Maximizing Customer Loyalty: Predicting & Reducing Churn at Model Fitness
+    </h2>
+    <p>     
+      This project focuses on analyzing customer behaviors at a gym to establish effective retention strategies. By leveraging machine learning algorithms, we aim to gain insights into customer preferences and trends, helping improve services and enhance user experience.
       </p>
       <div>
         <img src="https://img.shields.io/badge/-Market%20Segmentation-000000?style=flat&logo=googleanalytics" alt= "Market Segmentation" />

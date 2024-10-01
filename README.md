@@ -6,10 +6,7 @@ I'm a data analyst and sociologist who loves getting into the details of numbers
 **Skills and Interests:**
    
 🌱 Passionate about statistics and probability, I thrive on utilizing programming tools such as Python and SQL to deepen my expertise in these domains.                                                                       
-
 👯 Eager to collaborate on innovative projects encompassing statistical analysis, modeling, machine learning, and web scraping 😉. 
-
-🔭 I'd love to continue honing my English communication skills to better engage with global communities and broaden my professional horizons 🌐🌎
 
 Feel free to reach out to me on my social media channels:
 

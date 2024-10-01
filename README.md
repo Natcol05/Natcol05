@@ -42,7 +42,9 @@ Feel free to reach out to me on my social media channels:
      </a>
     </td>
     <td>
-      <h2 align="center">Maximizing Customer Loyalty: Predicting & Reducing Churn at Model Fitness</h2>
+     <a href="https://github.com/Natcol05/Machine-Learning-Model.git" target="_blank">
+     <h2 align="center">Maximizing Customer Loyalty: Predicting & Reducing Churn at Model Fitness</h2>
+      </a>
       <p>
         This project focuses on analyzing customer behaviors at a gym to establish effective retention strategies. By leveraging machine learning algorithms, we aim to gain insights into customer preferences and trends, helping improve services and enhance user experience.
       </p>

@@ -76,14 +76,17 @@ Feel free to reach out to me on my social media channels:
      This project focuses on leveraging customer behavior data to implement growth strategies for a multinational retail store. Using RFM analysis (Recency, Frequency, Monetary), customers are segmented into gold, silver, and bronze categories, helping tailor marketing efforts and optimize sales. Data-driven insights aim to improve retention and customer engagement.
     </p>
     <div>
-     <img src="https://img.shields.io/badge/-Market%20Segmentation-000000?style=flat&logo=googleanalytics" alt="Market Segmentation" />
-     <img src="https://img.shields.io/badge/-Relationship%20Marketing-000000?style=flat&logo=handshake" alt="Relationship Marketing" />
-     <img src="https://img.shields.io/badge/-Predictive%20Analytics-000000?style=flat&logo=datadog" alt="Predictive Analytics" />
+     <img src="https://img.shields.io/badge/-Client%20Retention-000000?style=flat&logo=googleanalytics" alt="Client Retention"/>
+     <img src="https://img.shields.io/badge/-Customer%20Behavior%20Analysis-000000?style=flat&logo=handshake" alt="Customer Behavior Analysis"/>
+     <img src="https://img.shields.io/badge/-Customer%20Engagement-000000?style=flat&logo=datadog" alt="Customer Engagement"/>
      <img src="https://img.shields.io/badge/-Machine%20Learning-000000?style=flat&logo=tensorflow" alt="Machine Learning" />
      <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" alt="Python Badge" />
+     <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=plotly&logoColor=white" alt="Matplotlib"/>
      <img src="https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas" alt="Pandas Badge" />
      <img src="https://img.shields.io/badge/-Scikit--learn-000000?style=flat&logo=scikit-learn" alt="Scikit-learn Badge" />
      <img src="https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy" alt="NumPy Badge" />
+     <img src="https://img.shields.io/badge/-Seaborn-000000?style=flat&logo=plotly&logoColor=white" alt="Seaborn"/>
+     <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=white" alt="Git"/>
     </div>
    </td>
   </tr>

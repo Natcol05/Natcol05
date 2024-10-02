@@ -124,8 +124,7 @@ Feel free to reach out to me on my social media channels:
 
 
 <div align="center">
-    <h1>Other Projects</h1>
-    </div>
+    <h1>Other Projects</h1>  
 
 
 [![Taxi Travels Chicago](https://img.shields.io/badge/Taxi%20Travels%20in%20Chicago-000000?style=flat&logo=github)](https://github.com/Natcol05/Taxi-Travels-in-Chicago)
@@ -133,7 +132,7 @@ Feel free to reach out to me on my social media channels:
 [![User Interaction and Conversion in A/A/B Test](https://img.shields.io/badge/Interaction%20and%20Conversion%20Test%20A/A/B-000000?style=flat&logo=github)](https://github.com/Natcol05/User-Interaction-and-Conversion-in-A-A-B-Test.git)
 [![Prueba A/B para incremento de ingresos](https://img.shields.io/badge/Incremento%20de%20Ingresos%20Test%20A/B-000000?style=flat&logo=github)]()
 
-
+</div>
 
 
 

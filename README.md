@@ -97,7 +97,7 @@ Feel free to reach out to me on my social media channels:
  <table>
   <tr>
    <td>
-    <a https://github.com/Natcol05/Pruebas-A-B-para-Estrategias-de-Incremento-de-Ingresos.git" target="_blank">
+    <a "https://github.com/Natcol05/Pruebas-A-B-para-Estrategias-de-Incremento-de-Ingresos.git" target="_blank">
      <img src="https://github.com/Natcol05/Pruebas-A-B-para-Estrategias-de-Incremento-de-Ingresos/blob/29b164aa5b0dffcaac56c2273b306c4e1384c9fa/Test%20AB.png?raw=true" alt="Retail Image" style="padding-right: 10px; width: 750px; height: 250px;" />
     </a>
    </td>

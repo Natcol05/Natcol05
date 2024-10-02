@@ -88,8 +88,34 @@ Feel free to reach out to me on my social media channels:
      <img src="https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas" alt="Pandas Badge" />
      <img src="https://img.shields.io/badge/-Scikit--learn-000000?style=flat&logo=scikit-learn" alt="Scikit-learn Badge" />
      <img src="https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy" alt="NumPy Badge" />
+    </div>
+   </td>
+  </tr>
+ </table>
+</div>
+<div>
+ <table>
+  <tr>
+   <td>
+    <a https://github.com/Natcol05/Pruebas-A-B-para-Estrategias-de-Incremento-de-Ingresos.git" target="_blank">
+     <img src="https://github.com/Natcol05/Pruebas-A-B-para-Estrategias-de-Incremento-de-Ingresos/blob/29b164aa5b0dffcaac56c2273b306c4e1384c9fa/Test%20AB.png?raw=true" alt="Retail Image" style="padding-right: 10px; width: 750px; height: 250px;" />
+    </a>
+   </td>
+   <td style="vertical-align: middle;">
+    <h2 align="center" style="color: black; text-decoration: none;">
+     Optimización de Ingresos: Implementación de Pruebas A/B para Estrategias de Conversión en E-Commerce
+    </h2>
+    <p> 
+     Este proyecto analiza estrategias para aumentar la conversión y los ingresos en una tienda online a través de pruebas A/B. Se aplican los indicadores RICE y ICE para evaluar la efectividad de las estrategias, revelando que el grupo B mejora la conversión en un 18.6% en comparación con el grupo A.
+    </p>
+    <div>
+     <img src="https://img.shields.io/badge/-Incremento%20de%20Ingresos-000000?style=flat&logo=googleanalytics" alt="Incremento de Ingresos Badge" />
+     <img src="https://img.shields.io/badge/-Optimización%20de%20Tasa%20de%20Conversión-000000?style=flat&logo=handshake" alt="Optimización de Tasa de Conversión Badge" />
+     <img src="https://img.shields.io/badge/-A/B%20Testing-000000?style=flat&logo=datadog" alt="A/B Testing Badge" />
+     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" alt="Python Badge" />
+     <img src="https://img.shields.io/badge/-SciPy-000000?style=flat&logo=scipy" alt="SciPy Badge" />
+     <img src="https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy" alt="NumPy Badge" />
      <img src="https://img.shields.io/badge/-Seaborn-000000?style=flat&logo=plotly&logoColor=white" alt="Seaborn"/>
-     <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=white" alt="Git"/>
     </div>
    </td>
   </tr>
@@ -97,12 +123,15 @@ Feel free to reach out to me on my social media channels:
 </div>
 
 
-**Other Projects**
+<div align="center">
+    <h1>Other Projects</h1>
+    </div>
+
 
 [![Taxi Travels Chicago](https://img.shields.io/badge/Taxi%20Travels%20in%20Chicago-000000?style=flat&logo=github)](https://github.com/Natcol05/Taxi-Travels-in-Chicago)
 [![Video Games](https://img.shields.io/badge/Video%20Games%20-000000?style=flat&logo=github)](https://github.com/Natcol05/Video-Games-.git)
 [![User Interaction and Conversion in A/A/B Test](https://img.shields.io/badge/Interaction%20and%20Conversion%20Test%20A/A/B-000000?style=flat&logo=github)](https://github.com/Natcol05/User-Interaction-and-Conversion-in-A-A-B-Test.git)
-[![Prueba A/B para incremento de ingresos](https://img.shields.io/badge/Incremento%20de%20Ingresos%20Test%20A/B-000000?style=flat&logo=github)](https://github.com/Natcol05/Pruebas-A-B-para-Estrategias-de-Incremento-de-Ingresos.git)
+[![Prueba A/B para incremento de ingresos](https://img.shields.io/badge/Incremento%20de%20Ingresos%20Test%20A/B-000000?style=flat&logo=github)]()
 
 
 

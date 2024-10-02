@@ -26,7 +26,10 @@ Feel free to reach out to me on my social media channels:
 ![Anaconda](https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=Anaconda)
 ![VS Code](https://img.shields.io/badge/-visualstudiocode-000000?style=flat&logo=visual-studio-code)
 ![Scipy](https://img.shields.io/badge/-Scipy-000000?style=flat&logo=Scipy)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-000000?style=flat&logo=plotly&logoColor=white)
 <img src="https://img.shields.io/badge/-Scikit--learn-000000?style=flat&logo=scikit-learn" alt="Scikit-learn Badge" />
+![Dash](https://img.shields.io/badge/-Dash-000000?style=flat&logo=plotly&logoColor=white)
 </div>
 
 <div align="center">
